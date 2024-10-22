@@ -96,8 +96,9 @@ print("All videos have been processed and saved.")
 
 ### Here's the link to the page:[Click here!](https://www.instagram.com/rizz_cat._.daily/)
 
+## PS 
 I should say the pickup lines ChatGPT gave me were not up to the mark, but they work, I guess.<br>
-"Also, we have one more page of motivational quotes and two more pages coming up."
+Also, we have one more page of motivational quotes and two more pages coming up. ~vizz
 
 ## Dependencies
 
