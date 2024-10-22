@@ -3,7 +3,8 @@ Created by Vizz
 
 This project is a Python script that overlays text from a CSV file onto a background video.
 It’s a tool for automating video creation—because why do things manually when you can automate?
-
+<br>
+Softwares only supported bulk creation when you had a premium subscription, so I built my own. 👍🏻
 ## Features
 - Overlay text on your videos directly from CSV—quick and efficient, like a well-placed Batarang.
 - Automates the generation of multiple videos in one go—because no one has time to do things one by one.
