@@ -97,8 +97,15 @@ print("All videos have been processed and saved.")
 ### Here's the link to the page:[Click here!](https://www.instagram.com/rizz_cat._.daily/)
 
 ## PS 
-I should say the pickup lines ChatGPT gave me were not up to the mark, but they work, I guess.<br>
-Also, we have one more page of motivational quotes and two more pages coming up. ~vizz
+I should say the pickup lines ChatGPT gave me were not up to the mark, but they work, I guess?<br>
+
+Because here's what i got in my DM's:
+ - Your rizz are really helpful 
+ - How only 130 followers?This cat is fire
+ - Bro I send my girl your reels everyday 😎 Keep it up
+ - Hey 👋 I really like ur posts and those pickups lines are making me smile 😊
+
+Also, we have one more page of motivational quotes and two more pages coming up. All automated coz I'm lazy. ~vizz
 
 ## Dependencies
 
