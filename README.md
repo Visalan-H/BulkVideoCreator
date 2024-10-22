@@ -106,7 +106,8 @@ Because here's what i got in my DM's:
  - Bro I send my girl your reels everyday 😎 Keep it up
  - Hey 👋 I really like ur posts and those pickups lines are making me smile 😊
 
-Also, we have one more page of motivational quotes and two more pages coming up. All automated coz I'm lazy. ~vizz
+Also, we have one more page of motivational quotes and two more pages coming up. All automated coz I'm lazy.
+Feel free to use it and spread the word—let’s make this resource available to all! ~Vizz
 
 ## Dependencies
 
