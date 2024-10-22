@@ -91,7 +91,7 @@ print("All videos have been processed and saved.")
 ![image](https://github.com/user-attachments/assets/a2cfba52-d9d8-4973-bba8-04848d595cbc)
 ### Output folder
 ![image](https://github.com/user-attachments/assets/3dc4f4b7-607c-4ea3-9ac8-1b7d24b30420)
-### Insta Page
+### Instagram Page
 ![image](https://github.com/user-attachments/assets/4ce1f580-01a1-4486-bf15-5d65ef4e1e3d)
 
 ### Here's the link to the page:[Click here!](https://www.instagram.com/rizz_cat._.daily/)
