@@ -87,7 +87,7 @@ print("All videos have been processed and saved.")
 
 ```
 ## Results
-### In 50 days of posting 3-6 reels (didn't post on sep 27 phone broke :[ )
+### 50 days of posting 3-6 reels each day (didn't post on sep 27 phone broke :[ )
 ![image](https://github.com/user-attachments/assets/a2cfba52-d9d8-4973-bba8-04848d595cbc)
 ### Output folder
 ![image](https://github.com/user-attachments/assets/3dc4f4b7-607c-4ea3-9ac8-1b7d24b30420)
